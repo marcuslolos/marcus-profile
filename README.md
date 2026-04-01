@@ -8,7 +8,7 @@ _I am a first year cybersecurity major. Before this I was an infantryman in the 
 ![Small Unit Tactics](https://img.shields.io/badge/Small_Unit_Tactics-636B2F?logoColor=yellow)
 
 ## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
+![Internet Community Networking](https://img.shields.io/badge/Internet_Community_Networking-white?logo=telegram&logoColor=blue)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
